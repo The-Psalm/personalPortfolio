@@ -99,7 +99,7 @@ const Footer = () => {
                   </h3>
                   <p className="text-gray-300 text-lg leading-relaxed mb-6">
                     Passionate fullstack web developer crafting exceptional digital experiences 
-                    with modern technologies. I'm Ready to bring your ideas to life.
+                    with modern technologies. Ready to bring your ideas to life.
                   </p>
                   
                   {/* Social Links */}
